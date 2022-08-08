@@ -5,7 +5,7 @@
 1. 左连、右连
 2. 空处理
 
-![](/static/sql_table_join.png)
+![](../static/sql_table_join.png)
 
 # 代码
 ```sql
