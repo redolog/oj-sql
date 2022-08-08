@@ -4,8 +4,8 @@ SQL online judge exercise.
 Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/).
 
 # wiki
-- [MySQL窗口函数](../wiki/WindowFunction.md)
-- [CTE with语句](../wiki/WithCTE.md)
+- [MySQL窗口函数](/wiki/WindowFunction.md)
+- [CTE with语句](/wiki/WithCTE.md)
 
 # list of solutions
 - [175_CombineTwoTables](/leetcode/175_CombineTwoTables.md)
@@ -16,3 +16,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [182_DuplicateEmails](/leetcode/182_DuplicateEmails.md)
 - [183_CustomersWhoNeverOrder](/leetcode/183_CustomersWhoNeverOrder.md)
 - [184_DepartmentHighestSalary](/leetcode/184_DepartmentHighestSalary.md)
+- [185_DepartmentTopThreeSalaries](/leetcode/185_DepartmentTopThreeSalaries.md)
