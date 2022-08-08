@@ -17,3 +17,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [183_CustomersWhoNeverOrder](/leetcode/183_CustomersWhoNeverOrder.md)
 - [184_DepartmentHighestSalary](/leetcode/184_DepartmentHighestSalary.md)
 - [185_DepartmentTopThreeSalaries](/leetcode/185_DepartmentTopThreeSalaries.md)
+- [186_DeleteDuplicateEmails](/leetcode/186_DeleteDuplicateEmails.md)
