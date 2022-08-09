@@ -20,3 +20,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [186_DeleteDuplicateEmails](/leetcode/186_DeleteDuplicateEmails.md)
 - [197_RisingTemperature](/leetcode/197_RisingTemperature.md)
 - [262_TripsAndUsers](/leetcode/262_TripsAndUsers.md)
+- [511_GamePlayAnalysisI](/leetcode/511_GamePlayAnalysisI.md)
