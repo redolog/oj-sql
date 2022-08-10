@@ -21,3 +21,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [197_RisingTemperature](/leetcode/197_RisingTemperature.md)
 - [262_TripsAndUsers](/leetcode/262_TripsAndUsers.md)
 - [511_GamePlayAnalysisI](/leetcode/511_GamePlayAnalysisI.md)
+- [584_FindCustomerReferee](/leetcode/584_FindCustomerReferee.md)
