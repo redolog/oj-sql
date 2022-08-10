@@ -6,6 +6,7 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 # wiki
 - [MySQL窗口函数](/wiki/WindowFunction.md)
 - [CTE with语句](/wiki/WithCTE.md)
+- [all 子查询语句](/wiki/AllSubqueries.md)
 
 # list of solutions
 - [175_CombineTwoTables](/leetcode/175_CombineTwoTables.md)
@@ -22,3 +23,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [262_TripsAndUsers](/leetcode/262_TripsAndUsers.md)
 - [511_GamePlayAnalysisI](/leetcode/511_GamePlayAnalysisI.md)
 - [584_FindCustomerReferee](/leetcode/584_FindCustomerReferee.md)
+- [586_CustomerPlacingLargestNumberOfOrders](/leetcode/586_CustomerPlacingLargestNumberOfOrders.md)
