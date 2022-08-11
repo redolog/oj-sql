@@ -25,3 +25,26 @@ where sn in (
     having count(sn)>=3
 );
 ```
+
+## col-row_number & subquery
+有些做商分的同学喜欢写嵌套，这里可以不用groupby，用窗口函数的partitionby，加一层嵌套：
+```sql
+SELECT id,
+       visit_date,
+       people
+  FROM (
+        SELECT id,
+               visit_date,
+               people, COUNT(*) over (PARTITION BY sn) as cnt
+          FROM (
+                SELECT id,
+                       visit_date,
+                       people,
+                       (id - row_number() over (ORDER BY id))as sn
+                  FROM stadium
+                 WHERE people >=100
+               ) t_sn
+       ) t_sn_cnt
+ WHERE cnt >=3
+ ORDER BY visit_date
+```
