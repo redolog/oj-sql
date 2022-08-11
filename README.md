@@ -26,3 +26,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [586_CustomerPlacingLargestNumberOfOrders](/leetcode/586_CustomerPlacingLargestNumberOfOrders.md)
 - [595_BigCountries](/leetcode/595_BigCountries.md)
 - [596_ClassesMoreThan5Students](/leetcode/596_ClassesMoreThan5Students.md)
+- [601_HumanTrafficOfStadium](/leetcode/601_HumanTrafficOfStadium.md)
