@@ -24,3 +24,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [511_GamePlayAnalysisI](/leetcode/511_GamePlayAnalysisI.md)
 - [584_FindCustomerReferee](/leetcode/584_FindCustomerReferee.md)
 - [586_CustomerPlacingLargestNumberOfOrders](/leetcode/586_CustomerPlacingLargestNumberOfOrders.md)
+- [595_BigCountries](/leetcode/595_BigCountries.md)
