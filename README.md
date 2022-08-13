@@ -37,3 +37,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1084_SalesAnalysisIII](/leetcode/1084_SalesAnalysisIII.md)
 - [1141_UserActivityForThePast30DaysI](/leetcode/1141_UserActivityForThePast30DaysI.md)
 - [1148_ArticleViewsI](/leetcode/1148_ArticleViewsI.md)
+- [1158_MarketAnalysisI](/leetcode/1158_MarketAnalysisI.md)
