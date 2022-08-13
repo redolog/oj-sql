@@ -36,3 +36,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes](/leetcode/1050_ActorsAndDirectorsWhoCooperatedAtLeastThreeTimes.md)
 - [1084_SalesAnalysisIII](/leetcode/1084_SalesAnalysisIII.md)
 - [1141_UserActivityForThePast30DaysI](/leetcode/1141_UserActivityForThePast30DaysI.md)
+- [1148_ArticleViewsI](/leetcode/1148_ArticleViewsI.md)
