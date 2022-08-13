@@ -32,3 +32,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [608_TreeNode](/leetcode/608_TreeNode.md)
 - [620_NotBoringMovies](/leetcode/620_NotBoringMovies.md)
 - [626_ExchangeSeats](/leetcode/626_ExchangeSeats.md)
+- [627_SwapSalary](/leetcode/627_SwapSalary.md)
