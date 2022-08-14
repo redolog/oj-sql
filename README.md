@@ -39,3 +39,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1148_ArticleViewsI](/leetcode/1148_ArticleViewsI.md)
 - [1158_MarketAnalysisI](/leetcode/1158_MarketAnalysisI.md)
 - [1179_ReformatDepartmentTable](/leetcode/1179_ReformatDepartmentTable.md)
+- [1393_CapitalGainLoss](/leetcode/1393_CapitalGainLoss.md)
