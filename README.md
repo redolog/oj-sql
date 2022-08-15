@@ -48,3 +48,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1581_CustomersWhoVisitedButDidNotMakeAnyTransactions](/leetcode/1581_CustomersWhoVisitedButDidNotMakeAnyTransactions.md)
 - [1587_BankAccountSummaryII](/leetcode/1587_BankAccountSummaryII.md)
 - [1667_FixNamesInATable](/leetcode/1667_FixNamesInATable.md)
+- [1693_DailyLeadsAndPartners](/leetcode/1693_DailyLeadsAndPartners.md)
