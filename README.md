@@ -51,3 +51,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1693_DailyLeadsAndPartners](/leetcode/1693_DailyLeadsAndPartners.md)
 - [1729_FindFollowersCount](/leetcode/1729_FindFollowersCount.md)
 - [1741_FindTotalTimeSpentByEachEmployee](/leetcode/1741_FindTotalTimeSpentByEachEmployee.md)
+- [1795_RearrangeProductsTable](/leetcode/1795_RearrangeProductsTable.md)
