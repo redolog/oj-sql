@@ -47,3 +47,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1527_PatientsWithACondition](/leetcode/1527_PatientsWithACondition.md)
 - [1581_CustomersWhoVisitedButDidNotMakeAnyTransactions](/leetcode/1581_CustomersWhoVisitedButDidNotMakeAnyTransactions.md)
 - [1587_BankAccountSummaryII](/leetcode/1587_BankAccountSummaryII.md)
+- [1667_FixNamesInATable](/leetcode/1667_FixNamesInATable.md)
