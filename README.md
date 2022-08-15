@@ -44,3 +44,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1393_CapitalGainLoss](/leetcode/1393_CapitalGainLoss.md)
 - [1407_TopTravellers](/leetcode/1407_TopTravellers.md)
 - [1484_GroupSoldProductsByTheDate](/leetcode/1484_GroupSoldProductsByTheDate.md)
+- [1527_PatientsWithACondition](/leetcode/1527_PatientsWithACondition.md)
