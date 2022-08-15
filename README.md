@@ -9,6 +9,7 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [all 子查询语句](/wiki/AllSubqueries.md)
 - [CaseWhen 条件语句](/wiki/CaseWhen.md)
 - [COALESCE 函数](/wiki/COALESCE.md)
+- [GROUP_CONCAT 函数](/wiki/GROUP_CONCAT.md)
 
 # list of solutions
 - [175_CombineTwoTables](/leetcode/175_CombineTwoTables.md)
@@ -42,3 +43,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1179_ReformatDepartmentTable](/leetcode/1179_ReformatDepartmentTable.md)
 - [1393_CapitalGainLoss](/leetcode/1393_CapitalGainLoss.md)
 - [1407_TopTravellers](/leetcode/1407_TopTravellers.md)
+- [1484_GroupSoldProductsByTheDate](/leetcode/1484_GroupSoldProductsByTheDate.md)
