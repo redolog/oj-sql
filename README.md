@@ -53,3 +53,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1741_FindTotalTimeSpentByEachEmployee](/leetcode/1741_FindTotalTimeSpentByEachEmployee.md)
 - [1795_RearrangeProductsTable](/leetcode/1795_RearrangeProductsTable.md)
 - [1873_CalculateSpecialBonus](/leetcode/1873_CalculateSpecialBonus.md)
+- [1890_LatestLoginIn2020](/leetcode/1890_LatestLoginIn2020.md)
