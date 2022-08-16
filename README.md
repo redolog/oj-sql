@@ -54,3 +54,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1795_RearrangeProductsTable](/leetcode/1795_RearrangeProductsTable.md)
 - [1873_CalculateSpecialBonus](/leetcode/1873_CalculateSpecialBonus.md)
 - [1890_LatestLoginIn2020](/leetcode/1890_LatestLoginIn2020.md)
+- [1965_EmployeesWithMissingInformation](/leetcode/1965_EmployeesWithMissingInformation.md)
