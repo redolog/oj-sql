@@ -59,3 +59,16 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 
 ## codility
 - [EventsDelta](/codility/EventsDelta.md)
+
+## nowcoder牛客
+- [110_Insert](/nowcoder/110_Insert.md)
+- [111_Insert](/nowcoder/111_Insert.md)
+- [112_Insert](/nowcoder/112_Insert.md)
+- [113_Update](/nowcoder/113_Update.md)
+- [114_Update](/nowcoder/114_Update.md)
+- [115_Delete](/nowcoder/115_Delete.md)
+- [116_Delete](/nowcoder/116_Delete.md)
+- [117_Truncate](/nowcoder/117_Truncate.md)
+- [118_CreateTableIfNotExist](/nowcoder/118_CreateTableIfNotExist.md)
+- [119_AlterTable](/nowcoder/119_AlterTable.md)
+- [120_DropTable](/nowcoder/120_DropTable.md)
