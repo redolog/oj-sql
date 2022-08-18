@@ -12,6 +12,7 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [GROUP_CONCAT 函数](/wiki/GROUP_CONCAT.md)
 
 # list of solutions
+## leetcode
 - [175_CombineTwoTables](/leetcode/175_CombineTwoTables.md)
 - [176_SecondHighestSalary](/leetcode/176_SecondHighestSalary.md)
 - [177_NthHighestSalary](/leetcode/177_NthHighestSalary.md)
@@ -55,3 +56,6 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [1873_CalculateSpecialBonus](/leetcode/1873_CalculateSpecialBonus.md)
 - [1890_LatestLoginIn2020](/leetcode/1890_LatestLoginIn2020.md)
 - [1965_EmployeesWithMissingInformation](/leetcode/1965_EmployeesWithMissingInformation.md)
+
+## codility
+- [EventsDelta](/codility/EventsDelta.md)
