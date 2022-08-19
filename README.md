@@ -72,3 +72,8 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [118_CreateTableIfNotExist](/nowcoder/118_CreateTableIfNotExist.md)
 - [119_AlterTable](/nowcoder/119_AlterTable.md)
 - [120_DropTable](/nowcoder/120_DropTable.md)
+- [121_CreateIndex](/nowcoder/121_CreateIndex.md)
+- [122_DropIndex](/nowcoder/122_DropIndex.md)
+- [123_TruncatedAvgScoreOfHardSql](/nowcoder/123_TruncatedAvgScoreOfHardSql.md)
+- [124_ReportExamCount](/nowcoder/124_ReportExamCount.md)
+- [125_ScoreGreaterThanOrEqualToAvg](/nowcoder/125_ScoreGreaterThanOrEqualToAvg.md)
