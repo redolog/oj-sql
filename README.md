@@ -78,3 +78,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [124_ReportExamCount](/nowcoder/124_ReportExamCount.md)
 - [125_ScoreGreaterThanOrEqualToAvg](/nowcoder/125_ScoreGreaterThanOrEqualToAvg.md)
 - [126_AvgActiveDaysAndMAU](/nowcoder/126_AvgActiveDaysAndMAU.md)
+- [127_MonthCntAndAvgDayCnt](/nowcoder/127_MonthCntAndAvgDayCnt.md)
