@@ -81,3 +81,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [127_MonthCntAndAvgDayCnt](/nowcoder/127_MonthCntAndAvgDayCnt.md)
 - [128_IncompleteCntGreaterThan1AndValidUser](/nowcoder/128_IncompleteCntGreaterThan1AndValidUser.md)
 - [129_MonthlyAvgSubmitCntGreaterThan3UserRelatedTags](/nowcoder/129_MonthlyAvgSubmitCntGreaterThan3UserRelatedTags.md)
+- [130_ExamUVAndAvgScore](/nowcoder/130_ExamUVAndAvgScore.md)
