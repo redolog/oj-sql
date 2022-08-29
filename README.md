@@ -83,3 +83,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [129_MonthlyAvgSubmitCntGreaterThan3UserRelatedTags](/nowcoder/129_MonthlyAvgSubmitCntGreaterThan3UserRelatedTags.md)
 - [130_ExamUVAndAvgScore](/nowcoder/130_ExamUVAndAvgScore.md)
 - [131_ScoreGreaterThan80LevelDistribution](/nowcoder/131_ScoreGreaterThan80LevelDistribution.md)
+- [132_ExamQuestionUvPv](/nowcoder/132_ExamQuestionUvPv.md)
