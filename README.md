@@ -84,3 +84,4 @@ Pages available at [redolog.github.io/oj-sql/](https://redolog.github.io/oj-sql/
 - [130_ExamUVAndAvgScore](/nowcoder/130_ExamUVAndAvgScore.md)
 - [131_ScoreGreaterThan80LevelDistribution](/nowcoder/131_ScoreGreaterThan80LevelDistribution.md)
 - [132_ExamQuestionUvPv](/nowcoder/132_ExamQuestionUvPv.md)
+- [133_AwardTopStudentsInTwoActivities](/nowcoder/133_AwardTopStudentsInTwoActivities.md)
